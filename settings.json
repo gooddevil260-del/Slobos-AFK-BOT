@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Mojang",
+    "username": "Iron_Man",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Mamaantismp.aternos.me",
+    "ip": "TheKhukuriXsmp.aternos.me",
     "port": 39827,
-    "version": "26.2"
+    "version": false
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,11 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Muji Manil Lado Kha ",
-        "Sanjay Chor Nepal Chod!",
-        "Devendra Is Devendra Say Dady all time!"
+        " Never trust Gravel. It will drop you into lava faster than your friends steal your loot! ",
+        "If you just died, remember: it wasn't a mistake, it was a tactical respawn!!",
+        "Follow the rules, or we will personally set your permanent respawn point inside the Void!",
+        "Remember to close your doors! Skeletons don't pay rent, but they love moving into your house!",
+        "Hahahahahahhahaha Iam ironman !"
       ]
     },
     "chat-log": true,
